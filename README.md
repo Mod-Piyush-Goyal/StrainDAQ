@@ -212,11 +212,3 @@ Custom Wheatstone Bridge*
 - Real-time plotting
 
 ---
-
-# Author
-
-**Piyush Goyal**
-
-B.Tech Mechanical Engineering
-
-Indian Institute of Technology Ropar
