@@ -7,7 +7,6 @@ An embedded instrumentation platform for accurate strain measurement using a Whe
 
 ---
 
-# Banner
 
 <p align="center">
 <img src="Media/banner.png" width="900">
