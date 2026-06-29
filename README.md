@@ -19,7 +19,7 @@ An embedded instrumentation platform for accurate strain measurement using a Whe
 
 ## 🎥 Demo Video
 
-[calibration video](Media/demo.mp4)
+[calibration video](Media/calibration_video.mp4)
 
 
 ---
